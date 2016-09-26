@@ -1,10 +1,10 @@
 #Paper_1 Open Source Community Analysis
 
-Due Date: Friday, October 7, 2016, 11:59PM
+Due Date: Tuesday, October 11, 2016, 11:59PM
 
 Minimum Word Count - 5000 words
 
-Students will break into groups of 4 to 5 with other students in their studio section. Students teams will then be assigned a FLOSS group or collective—these collectives will vary in their specific take on FLOSS, and will range from anything from an Open-Source software community to a feminist hacker collective. Student teams will then have to perform a social scientific analysis of that group, through investigation of that group’s produced media, conversation among group members online, and through interviews with group members.  Through these various data sources, students will then interpret and answer the following questions, **through the use of peer-reviewed sources (minimum count of 10):** 
+Students will break into groups of 4 to 5 with other students in their studio section. Students teams will then be assigned a FLOSS group or collective—these collectives will vary in their specific take on FLOSS, and will range from anything from an Open-Source software community to a feminist hacker collective. Student teams will then have to perform a social scientific analysis of that group, and through investigation of that group’s produced media.  Through these various data sources, students will then interpret and answer the following questions, **through the use of peer-reviewed sources (minimum count of 10):** 
 * What are the groups’ goals? How do they aim to achieve them?
 * How does that group disseminate knowledge—both ingroup and outgroup?
 * How does that group communicate with one another?
